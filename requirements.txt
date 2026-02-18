@@ -1,0 +1,18 @@
+Adafruit-Blinka==8.69.0
+adafruit-circuitpython-busdevice==5.2.15
+adafruit-circuitpython-connectionmanager==3.1.6
+adafruit-circuitpython-motor==3.4.18
+adafruit-circuitpython-pca9685==3.4.20
+adafruit-circuitpython-register==1.11.1
+adafruit-circuitpython-requests==4.1.15
+adafruit-circuitpython-servokit==1.3.22
+adafruit-circuitpython-typing==1.12.3
+Adafruit-PlatformDetect==3.87.0
+Adafruit-PureIO==1.1.11
+binho-host-adapter==0.1.6
+pyftdi==0.57.1
+pyserial==3.5
+pyusb==1.3.1
+Raspi_MotorHAT @ git+https://github.com/orionrobots/Raspi_MotorHAT@1a3198d46b23f9936ac133a3b5f25b887eb0ad25
+sysv_ipc==1.2.0
+typing_extensions==4.15.0
